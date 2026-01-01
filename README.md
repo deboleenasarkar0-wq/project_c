@@ -3,7 +3,7 @@ Automated Teller Machine (ATM) Simulation System
 The Automated Teller Machine (ATM) Simulation is a C based application designed to replicate the core functionalities of a modern banking terminal. The primary goal of this project is to provide a secure and efficient platform for users to perform essential financial transactions such as balance inquiries, deposits, and withdrawals.
 Beyond basic operations, this simulation prioritizes system integrity and user protection through advanced logic implementation. A key feature is the Security Lockout mechanism, which safeguards accounts against unauthorized access by limiting login attempts. Furthermore, the system enforces a Maximum Transaction Limit to ensure that all withdrawals remain within safe parameters. By utilizing file handling for data persistence, the application ensures that user records are accurately maintained and updated across sessions.
 
-Key Features:
+# Key Features:
 
 1.Secure Authentication Logic: The system implements a robust access control mechanism requiring a valid account number and PIN for every session.
 
@@ -19,7 +19,7 @@ Key Features:
 
 The Automated Teller Machine (ATM) Simulation system project aims to protect user accounts with a security lockout mechanism and maintain financial integrity by validating transaction limits.
 
-Tools Used: 
+# Tools Used: 
 
  Programming Language: C Language (ANSI C standard)
  
