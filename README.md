@@ -21,10 +21,14 @@ The Automated Teller Machine (ATM) Simulation system project aims to protect use
 
 Tools Used: 
 
- Programming Language: C Language (ANSI C standard) 
+ Programming Language: C Language (ANSI C standard)
+ 
  Compiler: GNU Compiler Collection (GCC) 
+ 
  IDE / Editor: Code::Blocks 
+ 
  Operating System: Windows
+ 
  Version Control: GitHub 
 
 
