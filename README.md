@@ -35,7 +35,7 @@ The Automated Teller Machine (ATM) Simulation system project aims to protect use
 ### NOTE: The project was completed collaboratively. The GitHub repository was maintained by one member as another member is new to GitHub and version control systems.
 
 
-### Project Contribution & Role Assignment:
+# Project Contribution & Role Assignment:
 
 ### Deboleena Sarkar​​
 
