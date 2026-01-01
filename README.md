@@ -18,3 +18,35 @@ Key Features:
 6.User-Friendly Command Line Interface (CLI): The application offers an intuitive menu-based interface, providing clear prompts and error messages for a seamless user experience.
 
 The Automated Teller Machine (ATM) Simulation system project aims to protect user accounts with a security lockout mechanism and maintain financial integrity by validating transaction limits.
+
+Tools Used: 
+
+ Programming Language: C Language (ANSI C standard) 
+ Compiler: GNU Compiler Collection (GCC) 
+ IDE / Editor: Code::Blocks 
+ Operating System: Windows
+ Version Control: GitHub 
+
+
+### NOTE: The project was completed collaboratively. The GitHub repository was maintained by one member as another member is new to GitHub and version control systems.
+
+
+### Project Contribution & Role Assignment:
+
+### Deboleena Sarkar​​
+
+1. Core Logic Implementation : Structure and Array of Structures Design. ​
+
+2. File I/O (Data Persistence) : Implementation of load data() and save data() functions.​
+
+3. Main Control Flow : Designing the main() function and the main menu loop.
+
+### ​Musfika Rahman​​
+
+1. ATM Functionality : Implementation of Deposit, Withdraw, and Check Balance functions. ​
+
+2. User Interface : Designing the Menu and input validation logic.​
+
+3. Testing & Debugging : Comprehensive testing of all transaction scenarios.​
+
+​
